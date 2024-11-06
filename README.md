@@ -1,2 +1,3 @@
 # image-grid-layout-exercise
-image-grid-layout exercise
+photos.PNG
+![photos](./photos.PNG)
